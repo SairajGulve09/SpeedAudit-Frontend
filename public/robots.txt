@@ -1,3 +1,3 @@
-# https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Disallow:
+Allow: /
+Sitemap: https://speed-audit-frontend-q54ultbdw-sairajgulve09s-projects.vercel.app/sitemap.xml
